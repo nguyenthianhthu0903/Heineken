@@ -23,7 +23,7 @@ Thành viên trong nhóm
 <table>
   <tr>
     <td align="center"><a href="https://www.facebook.com/nguyenthianhthu09"><img src="./teambg/anhthu.jpg" width="100px;" alt=""/><br /><sub><b>Nguyễn Thị Anh Thư</b></sub></a><br /><a href="https://github.com/nguyenthianhthu0903" title="Code">💻</a> <a href="https://github.com/nguyenthianhthu0903" title="DEV">📖</a> <a href="https://github.com/nguyenthianhthu0903" title="Maintenance">✅</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%A2n-1232021ab/"><img src="./frontend/images/image.jpg" width="100px;" alt=""/><br /><sub><b>Thái Lê Vân</b></sub></a>title="DEV">❌</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%A2n-1232021ab/"><img src="./frontend/images/image.jpg" width="100px;" alt=""/><br /><sub><b>Thái Lê Vân</b> </sub></a> </td>
   </tr>
   </table>
 
