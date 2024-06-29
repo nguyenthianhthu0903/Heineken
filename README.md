@@ -23,9 +23,13 @@ Members
 <table>
   <tr>
     <td align="center"><a href="https://www.facebook.com/nguyenthianhthu09"><img src="./teambg/anhthu.jpg" width="100px;" alt=""/><br /><sub><b>Nguyễn Thị Anh Thư</b></sub></a><br /><a href="https://github.com/nguyenthianhthu0903" title="Code">💻</a> <a href="https://github.com/nguyenthianhthu0903" title="DEV">📖</a> <a href="https://github.com/nguyenthianhthu0903" title="Maintenance">✅</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%A2n-1232021ab/"><img src="./frontend/images/image.jpg" width="100px;" alt=""/><br /><sub><b>Thái Lê Vân</b> </sub></a> </td>
-    <td align="center"><a href="linkedin.com/in/duy-đông-nguyễn-1b3801252"><img src="./teambg/dong.jpg" width="100px;" alt=""/><br /><sub><b>Nguyễn Duy Đông</b> </sub></a> </td>
-     <td align="center"><a href="[linkedin.com/in/duy-đông-nguyễn-1b3801252](https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-23a393297/)"><img src="./teambg/phuc.jpg" width="100px;" alt=""/><br /><sub><b>Nguyễn Thúc Phúc</b> </sub></a> </td>
+    
+      <td align="center"><a href="https://www.facebook.com/thai.vanle.946"><img src="./frontend/images/image.jpg" width="100px;" alt=""/><br /><sub><b>Thái Lê Vân</b> </sub></a> 
+      <br /><a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%A2n-1232021ab/" title="Code">💻</a> <a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%A2n-1232021ab/" title="DEV">📖</a> <a href="https://www.linkedin.com/in/th%C3%A1i-v%C3%A2n-1232021ab/" title="Maintenance">✅</a>
+      
+      </td>
+    <td align="center"><a href="https://www.facebook.com/w.terrr"><img src="./teambg/dong.jpg" width="100px;" alt=""/><br /><sub><b>Nguyễn Duy Đông</b> </sub></a> </td>
+     <td align="center"><a href="https://www.facebook.com/profile.php?id=100022995554827"><img src="./teambg/phuc.jpg" width="100px;" alt=""/><br /><sub><b>Nguyễn Thúc Phúc</b> </sub></a> </td>
   </tr>
   </table>
 
