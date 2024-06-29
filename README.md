@@ -1,11 +1,11 @@
-![image](https://github.com/nguyenthianhthu0903/Heineken/assets/92707250/93d0c56c-896d-46a1-8383-9756b3147434)** PROBLEM
+# PROBLEM
 Count Beer Drinkers 
 Detect Promotional Materials
 Evaluate Event Success
 Track Promotion Girls
 Grade Store Presence
 
-** SOLUTION
+#SOLUTION
 Count the number of people in the images.
 Determine how many of them are drinking Heineken beers.
 Find and list items with Heineken’s brand logos.
