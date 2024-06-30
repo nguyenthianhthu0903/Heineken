@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+google-generativeai
+supervision==0.19.0rc3
+numpy
+ultralytics
+lmdb
+patch-ng
+paddleocr
+transformers
+ftfy regex tqdm  
+git+https://github.com/openai/CLIP.git  
