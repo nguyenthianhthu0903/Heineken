@@ -32,11 +32,16 @@ Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
 
 **Clone the repository and run the web app:**
 
-   git clone <repository-url>
-   
-   Run all cells in app.py
-   
-   In command prompt (cmd): !streamlit run app.py
+   ```sh
+    ### Clone the repository
+    git clone https://github.com/nguyenthianhthu0903/Heineken.git
+    
+    ### Navigate to the project directory
+    cd Heineken
+    
+    ### Run the web application
+    streamlit run app.py
+  ```
 
 ## Video demo:
 
