@@ -1,11 +1,20 @@
-# PROBLEM
+# Analyst Heineken
+
+Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
+
+## Pipeline
+
+![image](https://github.com/nguyenthianhthu0903/Heineken/assets/82956224/a5aa828d-71fe-4cfb-868f-a9087d601205)
+
+
+## PROBLEM
 Count Beer Drinkers <br/>
 Detect Promotional Materials <br/>
 Evaluate Event Success <br/>
 Track Promotion Girls <br/>
 Grade Store Presence <br/>
 
-# SOLUTION
+## SOLUTION
 Count the number of people in the images. <br/>
 Determine how many of them are drinking Heineken beers. <br/>
 Find and list items with Heineken’s brand logos. <br/>
