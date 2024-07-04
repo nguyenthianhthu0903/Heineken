@@ -30,12 +30,19 @@ Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
 
 ## How to run:
 
-## Getting Started
-
 **Clone the repository and run the web app:**
-   ```sh
-   git clone <repository-url> && cd <repository-directory>
-   streamlit run app.py
+
+   git clone <repository-url>
+   Run all cells in app.py
+   In command prompt (cmd): !streamlit run app.py
+
+## Video demo:
+
+- Beer Cartoon: https://www.loom.com/share/38fefc1c874f4e7ca861ca070cf1de31
+  
+- Billboard: https://www.loom.com/share/6e84ddc813144bcd8f0c8e9a6b321845
+  
+- Person: https://www.loom.com/share/59b55afa24db464ebeb6ba1a5b5f1625 
 
 
 ## Team ✨
