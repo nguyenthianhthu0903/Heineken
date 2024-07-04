@@ -34,13 +34,13 @@ Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
 
    ```sh
     git clone https://github.com/nguyenthianhthu0903/Heineken.git
-  ```
-  ```sh
+   ```
+   ```sh
     cd Heineken
-  ```
-  ```sh  
+   ```
+   ```sh  
     streamlit run app.py
-  ```
+   ```
 
 ## Video demo:
 
