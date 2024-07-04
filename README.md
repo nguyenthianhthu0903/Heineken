@@ -7,22 +7,35 @@ Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
 ![image](https://github.com/nguyenthianhthu0903/Heineken/assets/82956224/a5aa828d-71fe-4cfb-868f-a9087d601205)
 
 
-## PROBLEM
-Count Beer Drinkers <br/>
-Detect Promotional Materials <br/>
-Evaluate Event Success <br/>
-Track Promotion Girls <br/>
-Grade Store Presence <br/>
-
 ## SOLUTION
-Count the number of people in the images. <br/>
-Determine how many of them are drinking Heineken beers. <br/>
-Find and list items with Heineken’s brand logos. <br/>
-Name the exact items (e.g., bucket, bottle, can, fridge, signage, billboard, tent card, display stand, tabletop, parasol). <br/>
-Analyze the mood and tone of the images (emotional detection). <br/>
-Identify promotion girls/boys in the images. <br/>
-Verify if there are at least 2 promotion girls at each dining place/restaurant. <br/>
-Ensure Heineken display concepts are correctly deployed at grocery stores/outlets: 1 billboard/ 1 standee/ 10 kegs of beers. <br/>
+- Count the number of people in the images.
+  
+- Determine how many of them are drinking beers.
+  
+- Find, count billboard, cartoon box with Heineken’s brand logos.
+  
+- Analyze the mood and tone of the images (emotional detection).
+  
+- Identify Context: Determine the setting of the images: dining vs. non-dining, supermarket vs. store.
+
+## Key features of the model:
+
+- No need to use a GPU.
+  
+- Avoid using paid model APIs (e.g., ChatGPT, Gemini).
+  
+- Keep training costs low
+
+- No retraining costs when new data is available.
+
+## How to run:
+
+## Getting Started
+
+**Clone the repository and run the web app:**
+   ```sh
+   git clone <repository-url> && cd <repository-directory>
+   streamlit run app.py
 
 
 ## Team ✨
