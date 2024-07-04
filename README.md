@@ -38,6 +38,9 @@ Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
    ```sh
     cd Heineken
    ```
+   ```sh
+    pip install -r requirement.txt
+   ```
    ```sh  
     streamlit run app.py
    ```
