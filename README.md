@@ -35,10 +35,12 @@ Nguyen Thi Anh Thu, Thai Le Van, Nguyen Duy Dong, Nguyen Thuc Phuc
    ```sh
     ### Clone the repository
     git clone https://github.com/nguyenthianhthu0903/Heineken.git
-    
+  ```
+  ```sh
     ### Navigate to the project directory
     cd Heineken
-    
+  ```
+  ```sh  
     ### Run the web application
     streamlit run app.py
   ```
